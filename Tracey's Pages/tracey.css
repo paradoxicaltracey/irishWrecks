@@ -1,0 +1,180 @@
+/* anatomyOShip Page */
+
+.anatomyPage article {
+	float:left;
+    padding:0 .4em;
+	margin:.5em .5em 0 1.5em;
+	width:65%;
+	height:auto;
+    
+}
+.anatomyPage h2 {
+    padding:.2em .2em 1em;
+    font-size:2em;
+    text-align: center;
+  }
+.anatomyPage ol {
+    padding:1em 0;
+    list-style-position: inside;
+    list-style-type: decimal;
+    background:#630;
+}
+.anatomyPage li {
+    padding-bottom:.4em;
+    font-size:1.2em;
+    
+}
+
+
+/* ----- end anatomyOShip Page ----- */
+
+/* bibliology Page */
+
+.bibliPage article {
+	float:left;
+    padding:0 .4em;
+	margin:.5em .5em 0 2.5em;
+	width:65%;
+	height:auto;
+    
+}
+.bibliPage h3 {
+    padding:.2em .2em 1em;
+    font-size:1.5em;
+    text-align: center;
+  }
+
+
+/* ----- end bibliology Page ----- */
+/* terminology Page */
+.termPage article {
+	float:left;
+    padding:0 .4em;
+	margin:.5em .5em 0 2.5em;
+	width:65%;
+	height:auto;
+    background-color: #630;
+    color:#fff;
+    border-style:double;
+    border-color:#210;
+}
+.termPage h3 {
+    padding:.2em .2em 1em;
+    font-size:1.5em;
+    text-align: center;
+  }
+.termPage h4 {
+    color:#fc9;
+}
+.termPage p {
+    font-size:.8em;
+    color:#fff;
+}
+
+/* ----- end terminology Page ----- */
+
+/* specificShip Page */
+
+.ssleftAside aside {
+    float:left;
+    padding:0;
+	margin:5em .5em 0;
+	width:300px;
+    text-align: center;
+}
+/* form styles */
+fieldset {
+    padding:1em;
+    margin:1em 0;
+    border:solid 1px #fff;
+}
+legend {
+    padding:0 5px;
+    font-weight:700;
+    color:#210;
+}
+label {
+    width:225px;
+    text-align: right;
+    color:#630;
+    vertical-align: top;
+    
+}
+input#county {
+    width:185px;
+}
+input#depth {
+    width:38px;
+}
+input#experience {
+    width:65px;
+}
+
+/* ----- end form styles ----- */
+
+/* mainContent Center Section*/
+.ssmainContent article {
+	float:left;
+    padding:0 .2em .4em;
+	margin:.5em;
+	width:400px;
+	height:auto;
+	background-color: #630;
+    color:#fff;
+    border-style:ridge;
+}
+.ssmainContent h1 {
+    margin:.3em 0;
+    color:#fff;
+}
+.ssmainContent h3 {
+    padding:0 .3em .5em;
+}
+.ssmainContent h4 {
+    color:#fc9;
+    padding-bottom: .2em;
+}
+.ssmainContent p{
+    padding:0 .3em .5em;
+    color:#fff;
+}
+
+
+/* ----- end specificShip Page -----*/
+
+/*Tool Bar */
+.toolBar aside {
+	float:left;
+	margin:.5em;
+	max-width:250px;
+	width:25%;
+	height:auto;
+	background: url('../imgs/ToolBarBackground.png') center no-repeat;
+	background-size: cover;
+	
+}
+
+.toolBar figure {
+	width:100%;
+	height:auto;
+	margin:.25em auto;
+}
+.socialMedia {
+	margin:2em auto;
+}
+.socialMedia figure {
+	float:left;
+	margin-left:2em;
+	width:40px;
+	height:auto;
+}
+
+#copyRight {
+	font:italic 1em 'Merriweather', 'Times New Roman', serif;
+	text-shadow:0 0 2em #ffcc99;
+	margin: 0 auto 1em;
+	padding:0 2em;
+	
+	font-weight:bold;
+}
+/* ----- end Tool Bar ----- */
