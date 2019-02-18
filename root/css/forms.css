@@ -1,0 +1,30 @@
+
+/*Specific Ship Form */
+#specificShipInfo fieldset {
+    padding:.5em;
+    margin:1em 0;
+    border:solid 1px #fff;
+   
+}
+legend {
+    padding:0 5px;
+    font-weight:700;
+    color:#ffc;
+}
+label {
+    text-align: right;
+    color:#ffc;
+    vertical-align: top;
+}
+label #county {
+     
+}
+input#county {
+    width:200px;
+}
+input#depth {
+    width:30px;
+}
+input#experience {
+    width:50px;
+}
